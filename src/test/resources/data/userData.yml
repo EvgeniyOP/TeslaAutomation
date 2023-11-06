@@ -1,0 +1,14 @@
+valid email: evgeniy.sqa@gmail.com
+valid password: qwerty111
+invalid email: invalid@gmail.com
+invalid password: invalid111
+first name: Eugene
+last name: Opanasiuk
+phone: 732 111 11 11
+address: 64 Orange Drive, Marlboro, NJ, USA
+name on card: Eugene Opanasiuk
+card number: 4377 3557 6621 5347
+expiration month: "07"
+expiration year: 2027
+cvv: 111
+billing zip code: "07746"
